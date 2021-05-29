@@ -41,7 +41,7 @@ section{padding:60px 0;overflow:hidden;background:#030405;color:#fff;border-bott
 .section-title h2{font-size:32px;font-weight:700;margin-bottom:20px;padding-bottom:20px;position:relative;color:#149ddd}
 .section-title h2::after{content:'';position:absolute;display:block;width:50px;height:3px;background:#149ddd;bottom:0;left:0}
 .section-title p{margin-bottom:0}
-.about .content h3{font-weight:700;font-size:26px;color:#173b6c}
+.about .content h3{font-weight:700;font-size:26px;color:#a0c8ff}
 .about .content ul{list-style:none;padding:0}
 .about .content ul li{margin-bottom:20px;display:flex;align-items:center}
 .about .content ul strong{margin-right:10px}
